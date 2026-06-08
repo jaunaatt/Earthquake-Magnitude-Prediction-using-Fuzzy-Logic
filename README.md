@@ -6,7 +6,7 @@ This repository contains our final project (Tugas Besar) for the DKA (Intro to A
 
 ## 📊 Dataset
 **Japan Earthquakes 2001 - 2018**
-- **Source**: [USGS Earthquake Hazards Program via Kaggle](https://www.kaggle.com/datasets/usgs/earthquake-database)
+- **Source**: [Japan's Earthquakes 2001-2018 via Kaggle]([https://www.kaggle.com/datasets/usgs/earthquake-database](https://www.kaggle.com/datasets/aerodinamicc/earthquakes-in-japan))
 - **Original Size**: 14,092 rows
 - **Cleaned Size**: 13,233 rows
 - **Input Features**: `latitude`, `longitude`, `depth`, `gap`, `rms`
